@@ -26,3 +26,5 @@ arrow>=0.8.0,<0.9
 
 six
 enum34; python_version < '3.4'
+flask-oidc==1.4.0
+okta==0.0.4
